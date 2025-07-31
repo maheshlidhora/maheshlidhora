@@ -96,7 +96,7 @@
 
 ---
 
-### 📜 Education
+## 📜 Education
 
 - 🎓 **M.Tech in CSE** – SIRT, Bhopal (2025) – *8.31 CGPA*
 - 🎓 **B.Tech in CSE** – UIT-RGPV, Bhopal (2021) – *7.91 CGPA*
@@ -104,7 +104,7 @@
 
 ---
 
-### ✨ Soft Skills & Hobbies
+## ✨ Soft Skills & Hobbies
 
 - Quick Learner, Logical Thinker, Extrovert
 - Interests: Geopolitics, Defence Technology, Puzzle Solving, Music
