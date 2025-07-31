@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
