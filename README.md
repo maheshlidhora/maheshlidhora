@@ -12,7 +12,7 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=maheshlidhora&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 <p align="center">
   <a href="https://github.com/maheshlidhora">
@@ -21,9 +21,8 @@
   <a href="https://www.linkedin.com/in/maheshlidhora/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mahesh.lidhora@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=maheshlidhora&label=Profile%20Views&color=0e75b6&style=flat)
 </p>
 
 ---
