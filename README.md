@@ -129,7 +129,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshlidhora&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshlidhora&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=maheshlidhora&theme=dark&hide_border=true)
 
 ---
 
