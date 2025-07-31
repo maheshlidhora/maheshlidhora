@@ -1,10 +1,6 @@
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
-  
-# ✨ Hello, I'm [Mahesh Prajapati]((https://github.com/maheshlidhora)) 👨‍💻
-<h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
-
+<div align="center"> 
+  # ✨ Hello, I'm [Mahesh Prajapati]((https://github.com/maheshlidhora)) 👨‍💻
+  <h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
 </div>
 
 <p align="center">
