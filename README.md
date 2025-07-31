@@ -111,11 +111,17 @@
 
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/maheshlidhora/)
-- 📧 mahesh.lidhora@gmail.com
-- 🖥️ [GitHub](https://github.com/maheshlidhora)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh.lidhora@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshlidhora/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshlidhora)
+[![Contact](https://img.shields.io/badge/Contact-%231DA1F2.svg?style=for-the-badge&logo=telephone&logoColor=white)](tel:+918516030885)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918516030885)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kumar_m_97)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kumar_m_97)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kumar_m_97)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/kumar_m97)
 
 ---
 
