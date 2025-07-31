@@ -3,12 +3,14 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Thank+you+for+visiting+my+GitHub!)](https://git.io/typing-svg)
 # ✨ Hello, I'm [Mahesh Prajapati]((https://github.com/maheshlidhora)) 👨‍💻
 
+<h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=maheshlidhora&label=Profile%20Views&color=0e75b6&style=flat)
 [![Follow me on GitHub](https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social)](https://github.com/Utkarssh11)
 
----
-<h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
 
+</div>
+---
 <p align="center">
   <a href="https://github.com/maheshlidhora">
     <img src="https://img.shields.io/github/followers/maheshlidhora?label=Follow&style=social" alt="GitHub followers" />
