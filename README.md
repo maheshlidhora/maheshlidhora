@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Utkarsh+Patidar's+GitHub+Profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Thank+you+for+visiting+my+GitHub!+GitHub+Profile)](https://git.io/typing-svg)
 
 
 # ✨ Hello, I'm [Mahesh Prajapati]([https://utkarshpatidar.vercel](https://github.com/maheshlidhora)) 👨‍💻
@@ -10,7 +10,7 @@
 
 ---
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=27&pause=1000&color=13A2F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Prajapati;Thank+you+for+visiting+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=27&pause=1000&color=13A2F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Prajapati;" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
