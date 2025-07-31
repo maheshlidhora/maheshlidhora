@@ -11,9 +11,6 @@
 
 </div>
 
-
-
-
 <p align="center">
   <a href="https://github.com/maheshlidhora">
     <img src="https://img.shields.io/github/followers/maheshlidhora?label=Follow&style=social" alt="GitHub followers" />
@@ -21,8 +18,8 @@
   <a href="https://www.linkedin.com/in/maheshlidhora/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Utkarssh11" target="_blank">
-    <img src="https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social" alt="Follow me on GitHub">
+  <a href="https://github.com/maheshprajapati" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=maheshprajapati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
 </p>
 
