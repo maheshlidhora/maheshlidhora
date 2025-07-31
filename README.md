@@ -60,7 +60,13 @@
 `Java 8`, `OOPs`, `JDBC`, `Servlets`, `JSP`, `Hibernate`, `JPA`
 
 #### 🔧 Frameworks & Tools
-`Spring Boot`, `Spring MVC`, `Spring Security`, `Spring Data JPA`, `REST APIs`, `Git`, `Postman`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge&logo=rest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
