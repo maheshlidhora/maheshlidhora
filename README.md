@@ -138,3 +138,6 @@
 <p align="center">
   <i>“I’m always open to collaboration, discussions, or just sharing ideas. Feel free to reach out if you want to connect!”</i>
 </p>
+<p align="center">
+  <i>“Keep learning, keep building.”</i>
+</p>
