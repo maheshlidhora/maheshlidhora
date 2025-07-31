@@ -1,4 +1,4 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Prajapati" alt="Typing SVG" /></a></center>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Prajapati" alt="Typing SVG" /></a></div>
 
 
 <h3 align="center">Java Full Stack Developer | Passionate about building scalable web applications</h3>
