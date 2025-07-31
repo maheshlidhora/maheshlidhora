@@ -20,15 +20,15 @@
 
 ---
 
-### 🧑‍💻 About Me
-🚀 M.Tech CSE student at SIRT, Bhopal | B.Tech from UIT-RGPV  
+## 🧑‍💻 About Me
+🚀 M.Tech from Sagar Institute of Research & Technology (SIRT), Bhopal | B.Tech from University Institute of Technology - RGPV, Bhopal  
 💡 I'm a quick learner and passionate about solving real-world problems through technology.  
 📚 Constantly upgrading my tech stack and working on exciting backend & full-stack projects.  
 🎯 Goal-oriented, team player with a strong foundation in **Java, Spring Boot, SQL, and Web Development**.
 
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
 - **Full Stack Developer** – *Newrise TechnoSys Pvt Ltd, Bhopal*  
   ⚙️ Built full-stack apps using Spring Boot, MySQL, and React.js  
