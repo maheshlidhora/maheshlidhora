@@ -30,7 +30,7 @@
 
 ### 💼 Work Experience
 
-- **Full Stack Developer Intern** – *Newrise TechnoSys Pvt Ltd, Bhopal*  
+- **Full Stack Developer** – *Newrise TechnoSys Pvt Ltd, Bhopal*  
   ⚙️ Built full-stack apps using Spring Boot, MySQL, and React.js  
   🔧 Implemented secure RESTful APIs and frontend interfaces
 
