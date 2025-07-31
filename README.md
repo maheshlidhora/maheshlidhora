@@ -57,7 +57,13 @@
 ### 🛠️ Tech Stack
 
 #### 🧠 Programming
-`Java 8`, `OOPs`, `JDBC`, `Servlets`, `JSP`, `Hibernate`, `JPA`
+![Java 8](https://img.shields.io/badge/Java_8-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-FFA500.svg?style=for-the-badge&logo=object-oriented-programming&logoColor=black)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🔧 Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
