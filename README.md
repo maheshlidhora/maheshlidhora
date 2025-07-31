@@ -1,4 +1,14 @@
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Utkarsh+Patidar's+GitHub+Profile)](https://git.io/typing-svg)
+
+
+# ✨ Hello, I'm [Utkarsh Patidar](https://utkarshpatidar.vercel) 👨‍💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=utkarssh11&label=Profile%20Views&color=0e75b6&style=flat)
+[![Follow me on GitHub](https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social)](https://github.com/Utkarssh11)
+
+---
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=27&pause=1000&color=13A2F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Prajapati;Thank+you+for+visiting+my+GitHub!" alt="Typing SVG" />
   </a>
