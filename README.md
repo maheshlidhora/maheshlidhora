@@ -82,10 +82,16 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 #### 🗄️ Database
-`MySQL`, `Oracle 10g`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle 10g](https://img.shields.io/badge/Oracle_10g-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### 💻 OS & Office Tools
-`macOS`, `Windows`, `Linux`, `MS Word`, `Excel`, `PowerPoint`
+![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macos&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![MS Word](https://img.shields.io/badge/MS_Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
