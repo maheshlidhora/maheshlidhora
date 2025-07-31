@@ -131,7 +131,6 @@
   ![](https://github-readme-stats.vercel.app/api?username=maheshlidhora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   <br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=maheshlidhora&theme=dark&hide_border=false)
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshlidhora&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshlidhora&theme=tokyonight" />
 </p>
