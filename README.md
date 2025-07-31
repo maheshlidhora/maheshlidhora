@@ -21,8 +21,9 @@
   <a href="https://www.linkedin.com/in/maheshlidhora/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=maheshlidhora&label=Profile%20Views&color=0e75b6&style=flat)
+  <a href="https://github.com/Utkarssh11" target="_blank">
+    <img src="https://img.shields.io/github/followers/Utkarssh11?label=Follow&style=social" alt="Follow me on GitHub">
+  </a>
 </p>
 
 ---
